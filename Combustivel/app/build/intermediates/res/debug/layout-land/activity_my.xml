@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dev.android.combustivel.MyActivity">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_best"
+        android:text="@string/label_gasolina"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textIsSelectable="false"
+        android:typeface="normal"
+        android:singleLine="true"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/abc_ab_stacked_transparent_light_holo" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/textView_porcentagem"
+        android:text="@string/label_gasolina"
+        android:gravity="center"
+        android:textIsSelectable="false"
+        android:textSize="100dp"
+        android:background="@drawable/abc_ab_stacked_transparent_light_holo" />
+
+</RelativeLayout>
+<!-- From: file:/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/src/main/res/layout-land/activity_my.xml -->

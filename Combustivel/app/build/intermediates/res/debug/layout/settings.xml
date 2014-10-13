@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/action_settings">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView_settings"
+        android:choiceMode="singleChoice"
+        android:textFilterEnabled="false"
+        android:stackFromBottom="false"
+        android:listSelector="@drawable/abc_spinner_ab_focused_holo_dark"
+        android:focusableInTouchMode="false"
+        android:longClickable="false"
+        android:headerDividersEnabled="true"
+        android:footerDividersEnabled="true"
+        android:fastScrollAlwaysVisible="false"
+        android:fastScrollEnabled="false"
+        android:drawSelectorOnTop="false"
+        android:smoothScrollbar="true" />
+</LinearLayout><!-- From: file:/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/src/main/res/layout/settings.xml -->

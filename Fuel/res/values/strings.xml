@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<resources>
+	<!-- DONE -->
+    <!-- EN -->
+    <string name="app_name">Fuel</string>
+    <string name="label_gasolina">Gas</string>
+    <string name="label_alcool">Alcool</string>
+    <string name="label_preco">Price :</string>
+    <string name="button_submit">Submit</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_feedback">Feedback</string>
+
+<!-- More languages not supported yet -->
+<!-- Will add soon support, so doesn't remove this any comment bracket at the translation -->
+<!-- While help us to tranlate the app and make it better together! :) -->
+
+    <!-- PORTUGUESE(BRAZILIAN)  PORTUGUÊS(BRASIL) -->
+    <!-- <string name="app_name">Combustível</string> -->
+    <!-- <string name="label_gasolina">Gasolina</string> -->
+    <!-- <string name="label_alcool">Álcool</string> -->
+    <!-- <string name="label_preco">Preço :</string> -->
+    <!-- <string name="button_submit">Enviar</string> -->
+    <!-- <string name="action_settings">Configurações</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+	
+
+	<!-- TODO (BELOW) -->
+	
+	<!-- PORTUGUESE(PORTUGAL)  PORTUGUÊS(PORTUGAL) -->
+	<!-- >> SE NADA MUDAR IREI COLOCAR O MESMO PORTUGUES PARA PORTUGAL E BRASIL -->
+	
+    <!-- <string name="app_name">Combustível</string> -->
+    <!-- <string name="label_gasolina">Gasolina</string> -->
+    <!-- <string name="label_alcool">Álcool</string> -->
+    <!-- <string name="label_preco">Preço :</string> -->
+    <!-- <string name="button_submit">Enviar</string> -->
+    <!-- <string name="action_settings">Configurações</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+	<!-- SPANISH - ESPAÑOL -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+    <!-- GERMAN - DEUTSCH -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+     <!-- FRENCH -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+    <!-- RUSSIAN -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+    <!-- MANDARIN -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+    <!-- JAPANESE -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+	<!-- KOREAN -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+<!--     if your language isn't show above,
+please copy and paste this block below and rename
+"OTHER" to your language (please add the english
+ name of your language too, to make easier to me) -->
+    
+	<!-- OTHERS -->
+    <!-- <string name="label_gasolina">Gas</string> -->
+    <!-- <string name="label_alcool">Alcool</string> -->
+    <!-- <string name="label_preco">Price :</string> -->
+    <!-- <string name="button_submit">Send</string> -->
+    <!-- <string name="action_settings">Settings</string> -->
+    <!-- <string name="action_feedback">Feedback</string> -->
+    
+</resources>

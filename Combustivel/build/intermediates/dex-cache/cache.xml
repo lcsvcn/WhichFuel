@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/pre-dexed/debug/classes-555cf93d4d2fac3a439cfd92278e878066803db9.jar"
+        jar="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-5a949da42f9654f37444b270c0dc4b7e6eca4643.jar"
+        jar="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-cabde0cffc64042f52d3e670e8d9cba6178d2782.jar"
+        jar="/home/lucas/Programas/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/pre-dexed/debug/classes-5d06ff7f508498aa952a8c313e8a915506a61bf8.jar"
+        jar="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/pre-dexed/debug/classes-129f3b3523abc46d29931a08a8767664347723f0.jar"
+        jar="/home/lucas/Programas/AndroidstudioProjects/Combustivel/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e5531cb41e35c81a051a274945542f6b31e4c97e"/>
+
+</pre-dex-items>
